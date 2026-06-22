@@ -13,7 +13,7 @@ Para aprender a pensar como um programador de verdade e entender como resolver p
 * **Aprendendo direto na fonte** Ninguém melhor para ensinar sobre C# do que os próprios criadores da linguagem. Toda a minha base teórica está sendo construída 100% através do Microsoft Learn.
 
 ## 📺 Acompanhe a Jornada em Vídeo
-Eu não estou apenas commitando esses código por aqui, também estou documentando os bastidores, os erros e os desafios atraves de uma video POV:
+Eu não estou apenas commitando esse código por aqui; também estou documentando os bastidores, os erros e os desafios através de um vídeo no estilo POV:
 
 * **YouTube:** [@oquasedev](https://www.youtube.com/@oquasedev)
 
